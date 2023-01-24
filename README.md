@@ -9,7 +9,7 @@ VAGALUME é um projero desenvolvido durante o curso da **[Generation Brasil](htt
 ## **:rocket: OBJETIVO**
 
 O projeto tem como finalidade de criar á **Redução das desigualdades  no interior dos países e entre países**.
-
+Uma aplicação que integra o caminhoneiro(a) com lavanderias mais próximas da sua localização. Utilizando Api do google maps, fazemos que fique muito mais fácil achar lavanderias em qualquer lugar do Brasil.
 
 ## **:computer: TECNOLOGIAS**
 
